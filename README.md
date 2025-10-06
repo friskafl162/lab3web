@@ -5,7 +5,7 @@
 |     Kelas    |      TI.24.A1      |
 |  Mata Kuliah | Bahasa Pemrograman Web 1 |
 
-## Input
+## Input (membuat list)
 ```` html
 <!DOCTYPE html>
 <html lang="en">
@@ -56,7 +56,7 @@
 ## output
 <img width="954" height="1123" alt="foto1" src="https://github.com/user-attachments/assets/efde3231-2c46-4f60-b77a-d657249f1bf8" />
 
-## Input
+## Input (membuat tabel)
 ````html
 <!DOCTYPE html>
 <html lang="en">
@@ -127,7 +127,7 @@
 ## Output
 <img width="1177" height="835" alt="foto2" src="https://github.com/user-attachments/assets/40389f87-4cfa-4a0a-9d50-e89db41ebb68" />
 
-## Input
+## Input (membuat form)
 ```` html
 <!DOCTYPE html>
 <html lang="en">
@@ -329,7 +329,7 @@ textarea{
 ## Output
 <img width="2559" height="902" alt="foto3" src="https://github.com/user-attachments/assets/53cf54b3-4f59-4413-8eef-2e44329195da" />
 
-## Input
+## Input (dropdown and listbox)
 ````html
 <!DOCTYPE html>
 <html lang="en">
@@ -454,3 +454,5 @@ textarea{
 
 ## Output
 <img width="1095" height="971" alt="Cuplikan layar 2025-10-06 193918" src="https://github.com/user-attachments/assets/610fd8a2-cfba-4a3d-8732-1e69351b8ba4" />
+
+## TERIMAKASIH
