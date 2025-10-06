@@ -55,8 +55,9 @@
 ````
 ## output
 <img width="954" height="1123" alt="foto1" src="https://github.com/user-attachments/assets/efde3231-2c46-4f60-b77a-d657249f1bf8" />
+
 ## Input
-```` html
+````html
 <!DOCTYPE html>
 <html lang="en">
 <head>
