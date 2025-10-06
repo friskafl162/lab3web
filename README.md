@@ -54,7 +54,7 @@
 </html>
 ````
 ## output
-
+<img width="954" height="1123" alt="foto1" src="https://github.com/user-attachments/assets/efde3231-2c46-4f60-b77a-d657249f1bf8" />
 ## Input
 ```` html
 <!DOCTYPE html>
@@ -124,6 +124,7 @@
 ````
 
 ## Output
+<img width="1177" height="835" alt="foto2" src="https://github.com/user-attachments/assets/40389f87-4cfa-4a0a-9d50-e89db41ebb68" />
 
 ## Input
 ```` html
@@ -324,3 +325,5 @@ textarea{
 </body>
 </html>
 ````
+## Output
+<img width="2559" height="902" alt="foto3" src="https://github.com/user-attachments/assets/53cf54b3-4f59-4413-8eef-2e44329195da" />
